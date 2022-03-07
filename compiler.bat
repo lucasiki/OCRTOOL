@@ -1,0 +1,1 @@
+pyinstaller "OCRTool.py" --onefile

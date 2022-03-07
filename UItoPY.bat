@@ -1,0 +1,1 @@
+pyuic5 -x ocrUI.ui -o ocrUI.py
